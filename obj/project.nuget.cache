@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "IjyHlwlp9JQ=",
+  "success": true,
+  "projectFilePath": "/Users/balkiratchahal/Desktop/Proj/db-raidr/DbRaidr.csproj",
+  "expectedPackageFiles": [
+    "/Users/balkiratchahal/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/Users/balkiratchahal/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/Users/balkiratchahal/.nuget/packages/mysqlcdc/4.0.1/mysqlcdc.4.0.1.nupkg.sha512",
+    "/Users/balkiratchahal/.nuget/packages/mysqlconnector/2.6.2/mysqlconnector.2.6.2.nupkg.sha512",
+    "/Users/balkiratchahal/.nuget/packages/npgsql/10.0.3/npgsql.10.0.3.nupkg.sha512",
+    "/Users/balkiratchahal/.nuget/packages/system.diagnostics.diagnosticsource/9.0.11/system.diagnostics.diagnosticsource.9.0.11.nupkg.sha512",
+    "/Users/balkiratchahal/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
+    "/Users/balkiratchahal/.nuget/packages/system.text.json/8.0.6/system.text.json.8.0.6.nupkg.sha512",
+    "/Users/balkiratchahal/.nuget/packages/microsoft.netcore.app.ref/8.0.31/microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "/Users/balkiratchahal/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.31/microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512",
+    "/Users/balkiratchahal/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.31/microsoft.netcore.app.host.osx-arm64.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
