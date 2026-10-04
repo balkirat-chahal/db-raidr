@@ -4,12 +4,12 @@
     <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
-    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/balkiratchahal/.nuget/packages</NuGetPackageRoot>
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/balkiratchahal/.nuget/packages</NuGetPackageFolders>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/var/folders/9p/3yxd1dg16099c6vk6jxzb7tw0000gn/T/cursor-sandbox-cache/31825bbb5669af798d7fc48132ffdb7d/nuget</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/var/folders/9p/3yxd1dg16099c6vk6jxzb7tw0000gn/T/cursor-sandbox-cache/31825bbb5669af798d7fc48132ffdb7d/nuget</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">7.0.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <SourceRoot Include="/Users/balkiratchahal/.nuget/packages/" />
+    <SourceRoot Include="/var/folders/9p/3yxd1dg16099c6vk6jxzb7tw0000gn/T/cursor-sandbox-cache/31825bbb5669af798d7fc48132ffdb7d/nuget/" />
   </ItemGroup>
 </Project>

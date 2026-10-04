@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DbRaidr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8974be36ed799da726871e75575ac8618d4658ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("DbRaidr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DbRaidr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

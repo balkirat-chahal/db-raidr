@@ -21,3 +21,4 @@
 /Users/balkiratchahal/Desktop/Proj/db-raidr/obj/Debug/net8.0/DbRaidr.pdb
 /Users/balkiratchahal/Desktop/Proj/db-raidr/obj/Debug/net8.0/DbRaidr.genruntimeconfig.cache
 /Users/balkiratchahal/Desktop/Proj/db-raidr/obj/Debug/net8.0/ref/DbRaidr.dll
+/Users/balkiratchahal/Desktop/Proj/db-raidr/obj/Debug/net8.0/DbRaidr.sourcelink.json
